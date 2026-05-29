@@ -80,3 +80,5 @@ Edges are weighted by transition probability, symmetrized for the undirected Lap
 ## License
 
 Public domain. This is a museum piece.
+
+Part of the [SuperInstance OpenConstruct](https://github.com/SuperInstance/OpenConstruct) ecosystem.
